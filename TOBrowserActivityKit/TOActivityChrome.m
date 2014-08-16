@@ -111,7 +111,6 @@ NSString * const TOActivityTypeChrome = @"au.com.timoliver.TOActivityTypeChrome"
 
 - (BOOL)canPerformWithActivityItems:(NSArray *)activityItems
 {
-    return YES;
     if ([[UIApplication sharedApplication] canOpenURL:[NSURL URLWithString:@"googlechrome://"]] == NO)
         return NO;
     
