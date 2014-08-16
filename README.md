@@ -15,10 +15,6 @@ iOS 6.0 or above.
 ## License
 Copyright 2014 Timothy Oliver. All rights reserved.
 
-Features logic designed by Satoshi Asano (ninjinkun) for NJKWebViewProgress 
-(https://github.com/ninjinkun/NJKWebViewProgress), also licensed under the MIT License. 
-Re-implemented by Timothy Oliver.
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to
 deal in the Software without restriction, including without limitation the
