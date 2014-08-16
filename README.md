@@ -5,9 +5,11 @@
 TOBrowserActivityKit provides two UIActivity subclasses for opening NSURL objects in web browser apps on iOS.
 
 ## Features
-* Supports Mobile Safari, and Chrome for iOS.
+* Supports Mobile Safari, and Chrome for iOS browser apps.
+* Scales to both iPhone and iPad sizes.
 * Supports iOS 6 and iOS 7 with custom icons supporting both design languages (Official iOS 8 support coming soon.).
 * Icons are proceduarally drawn via Core Graphics, and can automatically scale between Retina and non-Retina devices.
+* Procedural graphics also means that older version graphics (ie iOS 6) are completely optional at runtime (ie no more redundant image files!)
 
 ## Technical Requirements
 iOS 6.0 or above.
